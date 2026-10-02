@@ -1,4 +1,4 @@
-# Hi, I'm Richmond Addo 👋
+# Hi, I'm Richmond Addo 
 
 ### Cybersecurity Student | Security Enthusiast | Software & Cloud Learner
 
@@ -8,7 +8,7 @@ I enjoy learning by building projects, performing security labs, and working wit
 
 ---
 
-## 🛡️ Cybersecurity
+##  Cybersecurity
 
 - Web Application Security
 - Vulnerability Assessment
@@ -24,7 +24,7 @@ I enjoy learning by building projects, performing security labs, and working wit
 
 ---
 
-## 💻 Programming & Development
+##  Programming & Development
 
 - Python
 - Flask
@@ -38,7 +38,7 @@ I enjoy learning by building projects, performing security labs, and working wit
 
 ---
 
-## ☁️ Cloud & Infrastructure
+##  Cloud & Infrastructure
 
 - Amazon Web Services (AWS)
 - AWS RDS
@@ -51,9 +51,9 @@ I enjoy learning by building projects, performing security labs, and working wit
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌱 FarmConnect
+###  FarmConnect
 A web-based farmer-to-customer marketplace built with Flask and MySQL.
 
 **Technologies:**
@@ -61,7 +61,7 @@ A web-based farmer-to-customer marketplace built with Flask and MySQL.
 
 ---
 
-### 🔐 Web Security Labs
+###  Web Security Labs
 Hands-on security testing using vulnerable applications and security tools.
 
 **Technologies & Tools:**
@@ -69,12 +69,12 @@ Hands-on security testing using vulnerable applications and security tools.
 
 ---
 
-### 🧑‍💻 DTEN Cybersecurity Internship
+###  DTEN Cybersecurity Internship
 Practical cybersecurity tasks involving reconnaissance, vulnerability assessment, web application security testing, exploitation in controlled lab environments, and technical documentation.
 
 ---
 
-### 🗄️ Database & Management Systems
+###  Database & Management Systems
 Academic software projects involving database design, CRUD operations, authentication, and application development.
 
 **Technologies:**
@@ -82,7 +82,7 @@ Academic software projects involving database design, CRUD operations, authentic
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Cybersecurity Operations
 - Web Application Security
@@ -96,7 +96,7 @@ Academic software projects involving database design, CRUD operations, authentic
 
 ---
 
-## 🎓 Education
+##  Education
 
 **University of Mines and Technology (UMaT)**  
 BSc Cybersecurity  
@@ -104,7 +104,7 @@ Ghana 🇬🇭
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 I'm working toward becoming a cybersecurity professional with strong practical experience in:
 
@@ -114,12 +114,12 @@ I also aim to build and contribute to security-focused projects that solve real-
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm open to connecting with other students, cybersecurity professionals, developers, and technology enthusiasts.
 
-📍 Ghana 🇬🇭
+ Ghana 🇬🇭
 
 ---
 
-⭐ *I believe the best way to learn technology is to build, break, document, and improve.*
+ *I believe the best way to learn technology is to build, break, document, and improve.*
